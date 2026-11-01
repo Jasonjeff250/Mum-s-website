@@ -1,0 +1,9 @@
+{
+  "name": "ediyesthrifts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A responsive, five-page website for EDIYESTHRIFTS.",
+  "scripts": {
+    "start": "npx --yes serve ."
+  }
+}

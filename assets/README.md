@@ -1,0 +1,1 @@
+`hero-dress.jpg` is the homepage background image selected for the EDIYESTHRIFTS site.
